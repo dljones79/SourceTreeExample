@@ -98,4 +98,8 @@ public class MainActivity extends AppCompatActivity
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
+
+    public void testNewFunction() {
+        //testing for lab assignment on 8/30/16
+    }
 }
